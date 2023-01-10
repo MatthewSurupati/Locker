@@ -11,7 +11,7 @@ pip install requirement.txt
 ```
 
 ## Usage
-untuk menjalankan program bisa menggunakan command prompt dengan masuk terlebih dahulu kedalam directory SmartLocker, kemudian mejalankan program dengan mengetikkan seperti di bawah ini
+untuk menjalankan program bisa menggunakan command prompt dengan masuk terlebih dahulu kedalam directory dimana locker ini berada, kemudian mejalankan program dengan mengetikkan seperti di bawah ini
 
 NB: Untuk versi python yang dapat digunakan adalah versi ```3.8``` sampai ```3.10```, untuk versi diatas ```3.10``` sudah ada perubahan dalam ```pyfrimata``` yang membuatnya tidak dapat menjalankan beberapa perintah.
 
