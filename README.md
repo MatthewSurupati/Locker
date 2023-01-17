@@ -27,5 +27,4 @@ Jangan lupa juga untuk mengupdate test yang diperlukan.
 
 ## License
 
-Calvin Institute of Technology
 (Matthew Daniel Surupati)
