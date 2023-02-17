@@ -27,4 +27,4 @@ Jangan lupa juga untuk mengupdate test yang diperlukan.
 
 ## License
 
-(Matthew Daniel Surupati)
+(Matthew Daniel Surupati & Filbert Thomas)
